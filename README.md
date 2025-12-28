@@ -90,7 +90,3 @@ The project includes a `vercel.json` to handle SPA routing. Simply connect your 
 
 ## ⚡️ Fair Play & Originality
 This project is built from the ground up for **TechSprint AI**. Every line of code for the try-on pipeline and Google technology integration is original, adhering to the competition's strict terms.
-
----
-**GDG KL University | TechSprint AI ⚡️**
-👉 [Join the Challenge](https://vision.hack2skill.com/event/gdgoc-25-klu)
